@@ -1,19 +1,19 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é um algoritimo?',
+    'Um algoritmo é uma sequencia de instruções simples que tem como objetivo obter um resultado.'
 )
 
 criaCartao(
     'Geografia',
     'Qual a capital do Canadá?',
-    'A capital da Canadá é Ottawa'
+    'A capital da Canadá é Ottawa.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'Quantos elementos tem na tabela periódica?
+    'A tabela periódica tem 118 elementos químicos.'
 )
 
 criaCartao(
