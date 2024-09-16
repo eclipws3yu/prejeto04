@@ -9,11 +9,11 @@ criaCartao(
     'Qual a capital do Canadá?',
     'A capital da Canadá é Ottawa.'
 )
-
+yyy
 criaCartao(
     'Química',
-    'Quantos elementos tem na tabela periódica?
-    'A tabela periódica tem 118 elementos químicos.'
+    'Quantos elementos tem na tabela periódica?'
+    ' A tabela periódica tem 118 elementos químicos.'
 )
 
 criaCartao(
