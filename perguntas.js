@@ -13,7 +13,7 @@ yyy
 criaCartao(
     'Química',
     'Quantos elementos tem na tabela periódica?'
-    ' A tabela periódica tem 118 elementos químicos.'
+    'A tabela periódica tem 118 elementos químicos.'
 )
 
 criaCartao(
